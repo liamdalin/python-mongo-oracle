@@ -1,7 +1,7 @@
 # python-mongo-oracle
 
 Intall pymongo by running command:
-python3 -m pip install pymongo[tls]
+$ python3 -m pip install pymongo[tls]
 
 Intall cx_Oracle
 Download Oracle client libraries — Instant Client Package - Basic
